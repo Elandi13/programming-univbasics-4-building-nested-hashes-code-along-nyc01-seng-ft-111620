@@ -7,7 +7,7 @@ def second_challenge
       },
       :hero => {
       },
-      :hero_freinds => [
+      :hero_friends => [
         ]
       },
     :capulet => {
